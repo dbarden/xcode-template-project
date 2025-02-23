@@ -27,6 +27,7 @@
 		D00709AA2D6B479700B901F6 /* xcode-template-project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "xcode-template-project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D00709BA2D6B479900B901F6 /* xcode-template-projectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "xcode-template-projectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D00709C42D6B479900B901F6 /* xcode-template-projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "xcode-template-projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D07650332D6B588B0083A528 /* xcode-template-project.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = "xcode-template-project.xctestplan"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +76,7 @@
 		D00709A12D6B479700B901F6 = {
 			isa = PBXGroup;
 			children = (
+				D07650332D6B588B0083A528 /* xcode-template-project.xctestplan */,
 				D00709AC2D6B479700B901F6 /* xcode-template-project */,
 				D00709BD2D6B479900B901F6 /* xcode-template-projectTests */,
 				D00709C72D6B479900B901F6 /* xcode-template-projectUITests */,

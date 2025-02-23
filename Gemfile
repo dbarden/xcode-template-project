@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+
+gem 'fastlane'
+
+# Until Fastlane includes them directly.
+gem "abbrev"
+gem "mutex_m"
+gem "ostruct"
